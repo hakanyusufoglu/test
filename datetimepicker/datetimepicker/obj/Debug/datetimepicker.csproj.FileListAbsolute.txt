@@ -1,0 +1,18 @@
+c:\users\ogr\documents\visual studio 2012\Projects\datetimepicker\datetimepicker\bin\Debug\datetimepicker.exe.config
+c:\users\ogr\documents\visual studio 2012\Projects\datetimepicker\datetimepicker\bin\Debug\datetimepicker.exe
+c:\users\ogr\documents\visual studio 2012\Projects\datetimepicker\datetimepicker\bin\Debug\datetimepicker.pdb
+c:\users\ogr\documents\visual studio 2012\Projects\datetimepicker\datetimepicker\obj\Debug\datetimepicker.csprojResolveAssemblyReference.cache
+c:\users\ogr\documents\visual studio 2012\Projects\datetimepicker\datetimepicker\obj\Debug\datetimepicker.Form1.resources
+c:\users\ogr\documents\visual studio 2012\Projects\datetimepicker\datetimepicker\obj\Debug\datetimepicker.Properties.Resources.resources
+c:\users\ogr\documents\visual studio 2012\Projects\datetimepicker\datetimepicker\obj\Debug\datetimepicker.csproj.GenerateResource.Cache
+c:\users\ogr\documents\visual studio 2012\Projects\datetimepicker\datetimepicker\obj\Debug\datetimepicker.exe
+c:\users\ogr\documents\visual studio 2012\Projects\datetimepicker\datetimepicker\obj\Debug\datetimepicker.pdb
+C:\Users\Hakan\Desktop\windows form okul\2.dönem ntp\DateTimePicker\datetimepicker\datetimepicker\bin\Debug\datetimepicker.exe.config
+C:\Users\Hakan\Desktop\windows form okul\2.dönem ntp\DateTimePicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.exe
+C:\Users\Hakan\Desktop\windows form okul\2.dönem ntp\DateTimePicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.pdb
+C:\Users\Hakan\Desktop\windows form okul\2.dönem ntp\DateTimePicker\datetimepicker\datetimepicker\bin\Debug\datetimepicker.exe
+C:\Users\Hakan\Desktop\windows form okul\2.dönem ntp\DateTimePicker\datetimepicker\datetimepicker\bin\Debug\datetimepicker.pdb
+C:\Users\Hakan\Desktop\windows form okul\2.dönem ntp\DateTimePicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.csprojResolveAssemblyReference.cache
+C:\Users\Hakan\Desktop\windows form okul\2.dönem ntp\DateTimePicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.Form1.resources
+C:\Users\Hakan\Desktop\windows form okul\2.dönem ntp\DateTimePicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.Properties.Resources.resources
+C:\Users\Hakan\Desktop\windows form okul\2.dönem ntp\DateTimePicker\datetimepicker\datetimepicker\obj\Debug\datetimepicker.csproj.GenerateResource.Cache
